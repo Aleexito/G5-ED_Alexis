@@ -1,0 +1,15 @@
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\bin\Debug\net6.0\Programa1.exe
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\bin\Debug\net6.0\Programa1.deps.json
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\bin\Debug\net6.0\Programa1.runtimeconfig.json
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\bin\Debug\net6.0\Programa1.dll
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\bin\Debug\net6.0\Programa1.pdb
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.csproj.AssemblyReference.cache
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.AssemblyInfoInputs.cache
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.AssemblyInfo.cs
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.dll
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\refint\Programa1.dll
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.pdb
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\Programa1.genruntimeconfig.cache
+C:\Users\52664\Documents\Estructura de datos\Programa1\Programa1\obj\Debug\net6.0\ref\Programa1.dll
