@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Programa1
-build_property.ProjectDir = c:\Users\52664\Desktop\G5-ED_Alexis\Primeros pasos con C#\Programa1\Programa1\
+build_property.RootNamespace = ListasEnlazadas
+build_property.ProjectDir = C:\Users\52664\Desktop\G5-ED_Alexis\Listas Enlazadas Alexis\ListasEnlazadas\
