@@ -1,0 +1,32 @@
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csprojAssemblyReference.cache
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\magul\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.SuggestedBindingRedirects.cache
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\52664\Downloads\Calculadora2 (3)\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.csproj.SuggestedBindingRedirects.cache
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\52664\Desktop\G5-ED_Alexis\ExamenCalculadora\ExamenCalculadora\Calculadora2\obj\Debug\Calculadora2.pdb
